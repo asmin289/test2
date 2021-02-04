@@ -18,6 +18,9 @@ public class TestLogin {
         System.out.println(driver.getTitle());
 
 
+        System.out.println("тыц");
+
+
 
 
 //        driver.close();
